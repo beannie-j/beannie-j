@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **beannie-j/beannie-j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ### Hi there 👋
-
 :uk: :kr: My name is Jeannie, and I am a Full Stack Developer from South Korea, currently working in London.  
 :nerd_face: Right now, I am learning Scala with a focus of functional programming and AKKA.
 :honey_pot: Apart from coding, I'm human and have interests outside of working! This includes cycling, :dog: studying about dog behaviours/welfare, knitting, and catching up with friends. 
