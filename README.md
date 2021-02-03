@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-- :uk: :kr:  My name is Jeannie, and I am a Full Stack Developer from South Korea, currently working in London.  
-- :nerd_face:  Right now, I am learning Scala with a focus of functional programming and AKKA.  
-- :dolphin:  Apart from coding, I'm human and have interests outside of working! This includes cycling, :dog: studying about dog behaviours/welfare, knitting, and catching up with friends. 
-
+- :uk: :kr:   My name is Jeannie, and I am a Full Stack Developer from South Korea, currently working in London.  
+- :nerd_face:   Right now, I am learning Scala with a focus of functional programming and AKKA.  
+- :dolphin:   Apart from coding, I'm human and have interests outside of working! This includes cycling, :dog: studying dog behaviours/welfare, knitting, and catching up with friends. 
