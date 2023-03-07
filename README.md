@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ### Hi there 👋
 :uk: :kr:  My name is Jeannie, and I am a Software Developer from South Korea, currently working in London.  
 :nerd_face:  Right now, I am learning Spring Boot with Java and also Go.  
-:woman_cartwheeling:  Apart from coding, I'm human and have interests outside of working! This includes cycling, working out, pilates and catching up with friends. 
+:woman_cartwheeling:  Apart from coding, I'm human and have interests outside working! This includes working out, pilates and catching up with friends.  
